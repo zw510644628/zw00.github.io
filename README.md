@@ -30,7 +30,7 @@ This is zw's *blog*!
 #### 其他项目
 - 'xxxx项目'：该项目是XXXX，使用XXX技术，完成XXX功能
 
-#### XXX项目 （xxxx.x ~ xxxx.x）
+#### xxxx项目 （xxxx.x ~ xxxx.x）
 **项目描述：**
 该项目主要是XXXX。
 
