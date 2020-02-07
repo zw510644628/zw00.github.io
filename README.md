@@ -17,8 +17,10 @@ This is zw's *blog*!
 #### xxx项目 （xxxx.x ~ 至今）
 **项目描述：**
 该项目主要是XXXX。
+
 **实现技术：**
 主要运用了XXXX。
+
 **职责描述：**
 - 主持了XXX。
 - 修改并完善了XXX。
@@ -31,8 +33,10 @@ This is zw's *blog*!
 #### XXX项目 （xxxx.x ~ xxxx.x）
 **项目描述：**
 该项目主要是XXXX。
+
 **实现技术：**
 主要运用了XXXX。
+
 **职责描述：**
 - 主持了XXX。
 - 修改并完善了XXX。
