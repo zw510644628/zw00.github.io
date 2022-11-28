@@ -10,7 +10,7 @@ This is zw's *blog*!
 - 姓名/性别/出生年份
 - 本科/xx大学/信息安全 2016-2020
 - 工作年限：x年
-- 技术博客：http://zw00.github.io
+- 技术博客：https://zw510644628.github.io/
 - Github: http://github.com/zw510644628
 
 ### 项目经历
